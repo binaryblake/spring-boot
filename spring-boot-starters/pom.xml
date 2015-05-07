@@ -64,6 +64,7 @@
 		<module>spring-boot-starter-web</module>
 		<module>spring-boot-starter-websocket</module>
 		<module>spring-boot-starter-ws</module>
+		<module>spring-boot-starter-data-neo4j</module>
 	</modules>
 	<build>
 		<plugins>
